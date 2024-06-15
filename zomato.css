@@ -1,0 +1,344 @@
+.top-image{
+    width: 100%;
+    height: 410px;
+    background: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+}
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+.top-bar{
+    width: 100%;
+    height: 50px;
+    background-color: transparent;
+}
+.bar-left{
+    margin-left: 81px;
+    margin-top: 21px;
+    width: 43%;
+    height: 50px;
+    float: left;
+    color: #fff;
+}
+
+.bar-right{
+    float: left;
+    width: 50%;
+    height: 50px;
+}
+.bar-left-table{
+    margin-left: 44px;
+   
+}
+td{
+    padding-right: 44px;
+    padding-top: 20px;
+    color: #fff;
+    font-size: 20px;
+}
+.left-table-text{
+    cursor: pointer;
+    line-height: 1.5;
+    color: rgb(255, 255, 255);
+}
+.top-zomato{
+    
+    width: 100%;
+    height: 50px;
+    
+}
+.tops{
+    margin-top: 49px;
+}
+.zomato-img{
+    height: 60px;
+    margin-left: 489px;
+}
+.top-text-div{
+    width: 100%;
+    height: 50px;
+    
+}
+.top-text{
+    font-size: 42px;
+    margin-left: 263px;
+    color: white;
+}
+.search-container{
+    margin-left: 245px;
+    margin-right: 248px;
+    height: 55px;
+    background: white;
+    border-radius: 6px;
+}
+#location{
+    font-size: 24px;
+    margin-top: 12px;
+    margin-left: 15px;
+    color: red;
+}
+#input{
+    width: 219px;
+}
+#search{
+    color: gray;
+}
+#search-input{
+    width: 362px;
+    height: 30px;
+    border: 0px;
+}
+.order-left{ 
+    border: 1px solid rgb(232, 232, 232);
+    color: rgb(79, 79, 79);
+    border-radius: 17px;
+    float: left;
+    margin-top: 46px;
+    margin-left: 82px;
+    width: 541px;
+    height: 240px;
+}
+.left-img{
+    cursor: pointer;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+    width: 100%;
+    height: 70%;
+    background-image: url(https://b.zmtcdn.com/webFrontend/e5b8785c257af2a7f354f1addaf37e4e1647364814.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*);
+}
+.order-left:hover{
+    transition: all 0.3s;
+    transform: scale(1.1);
+}
+.order-right{
+    border: 1px solid rgb(232, 232, 232);
+    color: rgb(79, 79, 79);
+    border-radius: 17px;
+    margin-top: 46px;
+    margin-right: 82px;
+    float: right;
+    width: 541px;
+    height: 240px;
+}
+.right-img{
+    width: 100%;
+    height: 70%;
+    cursor: pointer;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+    background-image: url(https://b.zmtcdn.com/webFrontend/d026b357feb0d63c997549f6398da8cc1647364915.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*);
+}
+.order-right:hover{
+    transform: scale(1.1);
+    transition: all 0.3s;
+}
+.collection-div{
+    width: 1098px;
+    height: 470px;
+    float: left;
+    margin-left: 83px;
+    padding-top: 66px'
+}
+#collection-img{
+    cursor: pointer;
+    height: 327px;
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    padding-top: 14px;
+}
+.popular{
+    margin-left: 83px;
+    margin-top: 86px;
+    float: left;
+}
+.buttons{
+    cursor: pointer;
+    border: 1px solid rgb(232, 232, 232);
+    width: 348px;
+    font-size: inherit;
+    height: 80px;
+    color: black;
+    margin: 0px;
+    text-align: start;
+    border-radius: 10px;
+    background: white;
+    padding-left: 20px;
+}
+.buttons:hover{
+    box-shadow: 0 12px 10px 0 rgba(185, 179, 179, 0.24)
+}
+.see-more{
+    cursor: pointer;
+    border: 1px solid rgb(232, 232, 232);
+    width: 348px;
+    font-size: inherit;
+    height: 80px;
+    color: black;
+    margin: 0px;
+    border-radius: 10px;
+    background: white;
+    padding-left: 20px;
+}
+.see-more:hover{
+    box-shadow: 0 12px 10px 0 rgba(185, 179, 179, 0.24)
+}
+.app-img{
+    max-width: 40%;
+    float: left;
+    padding-left: 263px;
+    padding-top: 201px;
+    width: 255px;
+}
+.app-form{
+    margin-left: 35px;
+    margin-top: 127px;
+    float: left;
+}
+.zomato-app{
+    float: left;
+    width: 100%;
+    height: 550px;
+}
+.radio{
+    color: rgb(54, 54, 54);
+    font-size: 20px;
+}
+.input-email{
+    padding-left: 14px;
+    color: rgb(54, 54, 54);
+    width: 273px;
+    height: 40px;
+    border-radius: 8px;
+    border-color: black;
+}
+.form-share{
+    cursor: pointer;
+    border: 0px;
+    color: #fff;
+    height: 45px;
+    width: 144px;
+    border-radius: 7px;
+    background: #ff7373;
+}
+.from-app{
+    width: 150px;
+    margin-right: 17px;
+}
+.explore{
+    width: 1098px;
+    height: 425px;
+    float: left;
+    margin-left: 83px;
+}
+.explore-option{
+    padding-left: 12px;
+    width: 100%;
+    height: 70px;
+    font-size: 20px;
+    border-radius: 9px;
+    color: rgb(54, 54, 54);
+    margin-bottom: 20px;
+}
+.final-about{
+    background: #eee8e8;
+    float: left;
+    width: 100%;
+    height: 650px;
+}
+.final-div{
+    margin-top: 58px;
+    margin-left: 83px;
+    float: left;
+    width: 1098px;
+    height: 584px;
+    background: #eee8e8;
+}
+.contry{
+    border-radius: 7px;
+    font-size: 20px;
+    width: 111px;
+    height: 38px;
+    margin-left: 696px;
+    padding-left: 31px;
+    background-repeat: no-repeat;
+    background-size: 0.8em auto;
+    background-position: 0.4em center;
+    background-size: 0.8em auto;
+    background-position: 0.4em center;
+    background-image: url(https://imgs.search.brave.com/jWcNaj209fV3h0z6eze8szdSKPhwBmuSAT1TndXGdcc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJpdGFubmljYS5j/b20vOTcvMTU5Ny0w/MDQtMDU4MTZGNEUv/RmxhZy1JbmRpYS5q/cGc);
+}
+.lang{
+    height: 40px;
+    border-radius: 7px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 0.8em auto;
+    background-position: 0.4em center;
+    background-size: 0.8em auto;
+    background-position: 0.4em center;
+    width: 130px;
+    background-image: url(https://cdn-icons-png.flaticon.com/128/2889/2889312.png);
+    font-size: 20px;
+}
+.fa-linkedin {
+    margin-right: 8px;
+    float: left;
+    border-radius: 30px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background: black;
+    color: white;
+  }
+  .fa-instagram{
+    margin-right: 8px;
+    float: left;
+    border-radius: 30px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background: black;
+    color: white;
+  }
+  .fa-twitter{
+    margin-right: 8px;
+    float: left;
+    border-radius: 30px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background: black;
+    color: white;
+  }
+  .fa-youtube{
+    margin-right: 8px;
+    float: left;
+    border-radius: 30px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background: black;
+    color: white;
+  }
+  .fa-facebook{
+    float: left;
+    border-radius: 30px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background: black;
+    color: white;
+  }
+  .about-head{
+    text-align: start;
+    padding-right: 52px;
+    letter-spacing: 0.2rem;
+    font-weight: 500;
+  }
+  .table-data{
+    cursor: pointer;
+    font-size: 16px;
+    color: rgb(105, 105, 105);
+  }
+
